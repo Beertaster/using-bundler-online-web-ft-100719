@@ -6,4 +6,6 @@ Pry
 AwesomePrint
 
 
-class ag
+def asdf(as)\
+  fi as > 0
+end
