@@ -4,8 +4,3 @@ Sinatra
 Octokit
 Pry
 AwesomePrint
-
-
-def asdf(as)\
-  fi as > 0
-end
